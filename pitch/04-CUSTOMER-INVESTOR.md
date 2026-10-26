@@ -193,6 +193,12 @@ Same product, same evidence, three price points.
 | Chain | Annual contract | ₹4–12 lakh | [T] |
 | Year 3+ | Software licence | TBD | [T] |
 
+**Then say the arc — one sentence, once, and come back to BP:**
+
+> "This is the first condition, not the last. What we're actually building is the confirmation layer: chase the patient, check the data is good enough, summarise it, route it to a decision. Blood pressure is where it's cheapest to prove the machinery works. If it transfers, the same machinery covers diabetes, thyroid, and post-discharge follow-up. If it doesn't transfer, we're a very good BP business — and I'll tell you which one it is at month 24."
+
+**Do not put a list of conditions on this slide.** A list reads as unfocused. The arc reads as large. The falsifier at the end is what makes it credible rather than a slogan.
+
 ### Slide 10 — The 24-month plan
 
 | Phase | Months | What is true at the end | Revenue run-rate |

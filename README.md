@@ -135,6 +135,7 @@ Append-only. One line per real decision, with the reason. Future-you will need t
 | 2026-10-27 | ₹15,000 / 30-patient paid pilot; never free | Free pilots teach nothing about willingness to pay |
 | 2026-10-27 | No VC before month 24 | Buys growth the company cannot absorb, sells control |
 | 2026-10-27 | Weekly investor room = distribution, not funding, for 9 months | Ask for introductions, not cheques |
+| 2026-10-27 | Vision = confirmation infrastructure; product = BP only until 100 sites | Big vision gets the meeting, narrow wedge gets the customer. Arc is a claim about reuse, not scope |
 
 ---
 

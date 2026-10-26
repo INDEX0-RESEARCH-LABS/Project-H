@@ -64,6 +64,29 @@ Three things became true in the last five years, and none of them were true befo
 
 Detection is meanwhile becoming free: consumer devices now flag hypertension and refer to a clinician [MR S13]. That does not threaten this business — **it manufactures the demand.** Every notification creates a patient who needs confirmation. The notification stops at the clinic door; we are what happens after it.
 
+### 0.6 The arc — three altitudes, one company
+
+The vision is bigger than the product. That is deliberate, not a contradiction: investors fund a large market entered through a narrow wedge; customers buy a narrow product.
+
+| Altitude | The claim | True by | Who hears it |
+|---|---|---|---|
+| **Product** | A 7-day BP confirmation pathway for labs and clinics | Now (designed) | Lab owner, clinic manager |
+| **Business** | The follow-through layer for chronic disease in Indian primary care | Year 3 | Grant panel, customer-investor |
+| **Vision** | **Confirmation infrastructure** — every home measurement becomes actionable at the clinic | Year 5+, only if the machinery proves reusable | Venture investor, strategic partner |
+
+**The sentence, used verbatim:**
+
+> "We're building the confirmation layer for Indian healthcare. Today that means seven days of blood pressure follow-up for labs, because that's the cheapest place to prove the machinery works. The machinery — chase the patient, verify the data is good enough, summarise it, route it to a decision — is what every home measurement in this country is missing."
+
+**Four rules that keep the arc honest:**
+
+1. **Altitude follows the room.** Product claims with customers. The arc with capital. Never the reverse — a lab owner does not care about infrastructure, and an investor does not fund a follow-up service.
+2. **The arc is a claim about reuse, not scope.** Nothing in it requires building a second condition this year. It requires the BP pathway to be built so 70% of it transfers.
+3. **Never list conditions in an idea-stage deck.** "BP, diabetes, thyroid, post-surgical" reads as unfocused. "Confirmation infrastructure" reads as big. Same company, different sentence.
+4. **The arc has a falsifier.** If at year 3 the second condition's pathway is not at least 70% reusable, the vision was wrong and the company is a BP service business — which is still a good business. Say that out loud in the room. It is the difference between a vision and a slogan.
+
+**What this costs today:** nothing. The work is naming the reusable asset (adequacy engine, reminder engine, summary format, data model) and logging every cohort from patient one so the asset accumulates.
+
 ---
 
 ## 1. What we refuse to do
