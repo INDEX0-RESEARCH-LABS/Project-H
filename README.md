@@ -112,11 +112,12 @@ Fill by hand every Friday. Six numbers, no dashboard.
 
 ## How this file stays current
 
-Three rules. That is the whole mechanism.
+Four rules. That is the whole mechanism.
 
 1. **Friday, 10 minutes.** Update the five lines under *Current state* and the six under *Weekly scorecard*. Nothing else.
 2. **Monday, 1 minute.** Replace *Do this next* with one action. If it has no owner and no date, it is not an action.
-3. **On a milestone.** Tick the box, add a row to the log below, and update the stage line. If the stage changed, the claims ladder changed with it — see [Master Plan §11.2](Project-H-Master-Plan.md#112-the-claims-ladder--what-you-may-say-at-each-stage).
+3. **End of any working session.** Tick what changed, append to the log below, and if the stage moved, re-read the claims ladder before anything customer-facing goes out.
+4. **On a milestone.** Update the stage line. If the stage changed, the claims ladder changed with it — see [Master Plan §11.2](Project-H-Master-Plan.md#112-the-claims-ladder--what-you-may-say-at-each-stage).
 
 **Never** rewrite the vision to match the week you are having. If the evidence changes the plan, change the plan and log it.
 
